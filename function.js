@@ -1,4 +1,5 @@
-function clear() {
+
+function clearDisplay() {
     document.getElementById("display").value = "";
 }
 function deletePrevious() {
